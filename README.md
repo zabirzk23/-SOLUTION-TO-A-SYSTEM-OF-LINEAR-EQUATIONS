@@ -32,6 +32,8 @@ print(C)
 
 <img width="1241" height="752" alt="Screenshot 2025-08-21 002028" src="https://github.com/user-attachments/assets/6144e131-f876-4a77-8d26-1ff9d7e1cfbe" />
 
+
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
